@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Document 1",
+        "content":"This is an example document.",
+        "tags":"vector,database",
+        "date":1686787200000,
+        "content_char_count":28,
+        "content_word_count":5,
+        "content_sentence_count":1,
+        "content_avg_word_length":4.8
+    },
+    {
+        "title":"Document 2",
+        "content":"Another example with missing data",
+        "tags":"tutorial,guide",
+        "date":1686873600000,
+        "content_char_count":33,
+        "content_word_count":5,
+        "content_sentence_count":0,
+        "content_avg_word_length":5.8
+    },
+    {
+        "title":"Document 3",
+        "content":"nan",
+        "tags":"tutorial,guide",
+        "date":null,
+        "content_char_count":3,
+        "content_word_count":1,
+        "content_sentence_count":0,
+        "content_avg_word_length":3.0
+    }
+]

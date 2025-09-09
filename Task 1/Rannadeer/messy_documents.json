@@ -1,0 +1,90 @@
+[
+  {
+    "id": "doc1",
+    "title": "Introduction to Vector Databases",
+    "content": "Vector databases are specialized database systems   designed to store and query vector embeddings efficiently.",
+    "author": "Ali",
+    "date": "2023-06-15",
+    "tags": "vector,database,embeddings"
+  },
+  {
+    "id": "doc2",
+    "title": "Working with JSON in Python",
+    "content": "JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write.",
+    "author": "Ali",
+    "date": "invalid date format",
+    "tags": null
+  },
+  {
+    "id": "doc1",
+    "title": "Introduction to Vector Databases",
+    "content": "Vector databases are specialized database systems   designed to store and query vector embeddings efficiently.",
+    "author": "Ali",
+    "date": "2023-06-15",
+    "tags": "vector,database,embeddings"
+  },
+  {
+    "id": "doc3",
+    "title": "Data Cleaning Techniques",
+    "content": null,
+    "author": "Ali",
+    "date": "2023/06/17",
+    "tags": ["data", "cleaning", "preprocessing"]
+  },
+  {
+    "id": "doc4",
+    "title": "Vector Embeddings Explained",
+    "content": "Vector embeddings are numerical representations of data objects in a continuous vector space. They capture semantic meaning and relationships between objects, allowing for operations like similarity comparison.",
+    "author": "",
+    "date": "2023-06-18",
+    "tags": ["embeddings", "nlp", "machine learning", "vectors"]
+  },
+  {
+    "title": "Introduction to NumPy",
+    "content": "NumPy is a fundamental package for scientific computing in Python. It provides support for large, multi-dimensional arrays and matrices.",
+    "author": "Michael",
+    "date": "2023-06-19",
+    "tags": ["numpy", "python", "scientific computing", "arrays"]
+  },
+  {
+    "id": "doc6",
+    "title": "Pandas DataFrame Operations",
+    "content": "Pandas DataFrames provide a flexible and powerful data structure for data manipulation in Python. Common operations include filtering rows with boolean indexing, selecting columns, adding new columns, grouping data with groupby().",
+    "author": "Jennifer",
+    "date": "2023-06-20",
+    "tags": "pandas,dataframe,data manipulation,python"
+  },
+  {
+    "id": "doc7",
+    "Title": "Building a Document Search Engine",
+    "Content": "A document search engine combines text processing, vector embeddings, and efficient similarity search to retrieve relevant documents based on user queries.",
+    "Author": "Ali",
+    "Date": "2023-06-21",
+    "Tags": ["search engine", "vector database", "information retrieval"]
+  },
+  {
+    "id": "doc8",
+    "title": "Data Formats for Document Storage",
+    "content": "Various data formats are suitable for document storage, each with its own advantages. JSON is human-readable and widely supported. XML offers more structure but is verbose. CSV is simple but limited for nested data.",
+    "author": "David",
+    "date": "2023-06-22",
+    "tags": ["data formats", "json", "xml", "csv", "parquet"],
+    "extra_field": "This field is not needed"
+  },
+  {
+    "id": "doc9",
+    "title": "Error Handling in Python",
+    "content": "Effective error handling in Python involves using try-except blocks to catch and manage exceptions. The try block contains code that might raise an exception, while the except block handles the error.",
+    "author": "Emily",
+    "date": "2023-06-23",
+    "tags": ["python", "error handling", "exceptions", "try-except"]
+  },
+  {
+    "id": "doc10",
+    "title": "Vector Database Comparison",
+    "content": "Popular vector databases include Pinecone, Milvus, Weaviate, and Qdrant. Pinecone offers a fully managed service with high scalability. Milvus is an open-source option with strong performance.",
+    "author": "Ali",
+    "date": "2023-06-24",
+    "tags": ["vector database", "pinecone", "milvus", "weaviate", "qdrant"]
+  }
+]
